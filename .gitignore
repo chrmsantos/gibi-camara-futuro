@@ -1,0 +1,6 @@
+# Arquivos de geração do gibi (não publicar no repo)
+*.pdf
+*.mp3
+gibi_interativo.py
+__pycache__/
+*.pyc
